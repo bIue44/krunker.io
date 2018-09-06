@@ -1,0 +1,2 @@
+# krunker.io
+hack
